@@ -11,4 +11,4 @@ if ($conn === false) {
 }
 
 // JWT secret key
-$jwt_secret = "b93F8dfg56n435k5AS67DF2slQoK4";
+$jwt_secret = "your key here";
