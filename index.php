@@ -3,7 +3,7 @@ require_once 'curl_helper.php';
 
 $restAPIBaseURL = 'http://localhost/php/REST-API-JWT';
 echo "REST API Base URL: $restAPIBaseURL\n<br>";
-$token = 'b93F8dfg56n435k5AS67DF2slQoK4';
+$token = 'your key here';
 
 $headers = [
     "Authorization: Bearer $token"
